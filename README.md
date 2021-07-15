@@ -5,4 +5,4 @@ Here is the API link
 
 https://covid19.mathdro.id/api
 
-Live app : https://optimistic-einstein-4cb9b0.netlify.app/
+Live app: https://corona-statistics-app-jaahin.netlify.app/ 
